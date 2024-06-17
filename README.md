@@ -1,3 +1,5 @@
+# Brain-Tumor-Classification-and-Segmentation-Using-a-Multiscale-CNN
+
 We implemented the research paper "A Deep Learning Approach for Brain 
 Tumor Classification and Segmentation Using a Multiscale Convolutional 
 Neural Network" (Francisco Javier Díaz-Pernas, Mario Martínez-Zarzuela, Míriam 
